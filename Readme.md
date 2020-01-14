@@ -1,0 +1,1 @@
+# [Rust and WebAssembly - Sharing classes between Rust and JavaScript](https://sendilkumarn.com/blog/rustwasm-sharing-classes)
